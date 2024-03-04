@@ -1,6 +1,6 @@
 # binlang - basic bit operation with interactive terminal
 
-データ構造とアルゴリズム A（2 年次開講）のレポート課題
+データ構造とアルゴリズム A（3 年次開講）のレポート課題
 
 ## example
 
