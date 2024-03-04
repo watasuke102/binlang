@@ -1,8 +1,11 @@
 # binlang - basic bit operation with interactive terminal
 
-`TODO.md`を参照すること
+データ構造とアルゴリズム A (2 年次開講) のレポート課題
 
 ## example
+
+See `test.sh`.
+
 ```
 >> OR(NOT(8), 16)
 23
@@ -10,10 +13,9 @@
 
 ## 構文
 
-すべてはexpであること
+すべては exp であること
 
 OR(NOT(8), 16) => code(code(IMM),IMM)
-
 
 ```
 exp  = val
@@ -23,4 +25,5 @@ code = AND | OR | XOR | NOT
 ```
 
 ## LICENSE
-MIT LICENSE
+
+Dual-licensed; MIT (`LICENSE-MIT` or [The MIT License – Open Source Initiative](https://opensource.org/license/mit/)) or MIT SUSHI-WARE LICENSE (`LICENSE-MIT_SUSHI.md`)

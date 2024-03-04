@@ -4,7 +4,7 @@
 /// @author watasuke
 ///
 /// binlang - basic bit operation with interactive terminal
-/// This program is released under MIT License.
+/// This program is released under the MIT or MIT SUSHI-WARE License.
 ///
 
 #ifndef _BINLANG_OPECODE_H_

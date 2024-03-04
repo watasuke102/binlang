@@ -1,8 +1,8 @@
 # binlang - basic bit operation with interactive terminal 
 # Makefile
 #
-# CopyRight (c) 2021 watasuke
-# This program is released under MIT License.
+# CopyRight (c) 2021 - 2023 watasuke
+# This program is released under the MIT or MIT SUSHI-WARE License.
 #
 PREFIX   := build
 TARGET   := $(PREFIX)/binlang.out
